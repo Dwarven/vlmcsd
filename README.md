@@ -1,3 +1,5 @@
+> [KMS的前世今生](https://github.com/Dwarven/vlmcsd/blob/archive/STORY.md)
+
 # 1.KMS服务器搭建
 通过Linux服务器搭建Windows KMS激活服务器，可以用来激活Windows和Office ，下面开始教程
 
