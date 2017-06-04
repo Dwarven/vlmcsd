@@ -4,6 +4,7 @@
 通过Linux服务器搭建Windows KMS激活服务器，可以用来激活Windows和Office ，下面开始教程
 
 > 可以从[MDL](https://forums.mydigitallife.net/threads/emulated-kms-servers-on-non-windows-platforms.50234/)下载最新版的VLMCSD (Source and binaries)，然后找到自己选择平台对应的二进制文件
+
 > 这里以`CentOS`为例
 
 ### 永久关闭SELinux
@@ -45,8 +46,25 @@ chmod u+x /usr/local/KMS-server
 ```
 
 ### 防火墙设置
+CentOS 6
 
 ```
+iptables -I INPUT -p tcp --dport 1688 -j ACCEPT
+service iptables save
+service iptables restart
+```
+
+CentOS 7
+
+```
+firewall-cmd --zone=public --add-port=1688/tcp --permanent
+firewall-cmd --reload
+
+or
+
+systemctl disable firewalld
+yum install iptables-services
+systemctl enable iptables
 iptables -I INPUT -p tcp --dport 1688 -j ACCEPT
 service iptables save
 service iptables restart
