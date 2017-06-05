@@ -316,9 +316,6 @@ cscript ospp.vbs /dstatus
 | Skype for Business 2016 | 869NQ-FJ69K-466HW-QYCP2-DDBV6 |
 | Word 2016 | WXY84-JN2Q9-RBCCQ-3Q3J3-3PFJ6 |
 
-
-
-
-
-
+# 附
+[KMS VL ALL](https://forums.mydigitallife.net/threads/kms_vl_all-online-offline-kms-activator.63471/)
 
