@@ -86,6 +86,13 @@ echo "/usr/local/KMS-server" >> /etc/rc.d/rc.local
  slmgr.vbs -dlv
 ```
 
+如果不想用kms了，可以重置回原来的状态
+
+```
+slmgr.vbs -ckms  //清除系统KMS信息
+slmgr.vbs -rearm //重置计算机的授权状态
+```
+
 ### Windows GVLK密钥对照表（KMS激活专用）
 kms激活的前提是你的系统是批量授权版本，即VL版，一般企业版都是VL版，专业版有零售和VL版，家庭版旗舰版OEM版等等那就肯定不能用kms激活。一般建议从[http://msdn.itellyou.cn](http://msdn.itellyou.cn/)上面下载系统 VL版本的镜像一般内置GVLK key，用于kms激活。如果你手动输过其他key，那么这个内置的key就会被替换掉，这个时候如果你想用kms，那么就需要把GVLK key输回去。首先， 到[https://technet.microsoft.com/zh-cn/library/jj612867.aspx](https://technet.microsoft.com/zh-cn/library/jj612867.aspx) 获取你对应版本的KEY 如果打不开下面有对应的
 
