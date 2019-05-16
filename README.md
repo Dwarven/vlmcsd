@@ -323,6 +323,27 @@ cscript ospp.vbs /dstatus
 | Skype for Business 2016 | 869NQ-FJ69K-466HW-QYCP2-DDBV6 |
 | Word 2016 | WXY84-JN2Q9-RBCCQ-3Q3J3-3PFJ6 |
 
+#### Office 2019
+
+| Product | GVLK |
+| --- | --- |
+| Office 2019 Professional Plus | NMMKJ-6RK4F-KMJVX-8D9MJ-6MWKP |
+| Office 2019 Standard | 6NWWJ-YQWMR-QKGCB-6TMB3-9D9HK |
+| Project 2019 Professional | B4NPR-3FKK7-T2MBV-FRQ4W-PKD2B |
+| Project 2019 Standard | C4F7P-NCP8C-6CQPT-MQHV9-JXD2M |
+| Visio 2019 Professional | 9BGNQ-K37YR-RQHF2-38RQ3-7VCBB |
+| Visio 2019 Standard | 7TQNQ-K3YQQ-3PFH7-CCPPM-X4VQ2 |
+| Access 2019 | 9N9PT-27V4Y-VJ2PD-YXFMF-YTFQT |
+| Excel 2019 | TMJWT-YYNMB-3BKTF-644FC-RVXBD |
+| Outlook 2019 | 7HD7K-N4PVK-BHBCQ-YWQRW-XW4VK |
+| PowerPoint 2019 | RRNCX-C64HY-W2MM7-MCH9G-TJHMQ |
+| Publisher 2019 | G2KWX-3NW6P-PY93R-JXK2T-C9Y9V |
+| Skype for Business 2019 | NCJ33-JHBBY-HTK98-MYCV8-HMKHJ |
+| Word 2019 | PBX3G-NWMT6-Q7XBW-PYJGG-WXD33 |
+| Office 2019 Professional Plus C2R-P | VQ9DP-NVHPH-T9HJC-J9PDT-KTQRG |
+| Project 2019 Professional C2R-P | XM2V9-DN9HH-QB449-XDGKC-W2RMW |
+| Visio 2019 Professional C2R-P | N2CG9-YD3YK-936X4-3WR82-Q3X4H |
+
 # 附
 [KMS VL ALL](https://forums.mydigitallife.net/threads/kms_vl_all-online-offline-kms-activator.63471/)
 
